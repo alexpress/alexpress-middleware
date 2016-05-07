@@ -1,0 +1,29 @@
+{
+  "name": "alexpress-middleware",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alexpress/alexpress-middleware.git"
+  },
+  "preferGlobal": false,
+  "description": "common alexpress middleware",
+  "dependencies": {
+    "alexpress": "^0.4.1",
+    "error": "^7.0.2"
+  },
+  "bundleDependencies": [],
+  "main": "dist/index",
+  "scripts": {
+    "prepublish": "grunt",
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-contrib-coffee": "^0.12.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "should": "^4.4.1"
+  },
+  "author": "Venkat Peri <venkatperi@gmail.com> (http://www.vperi.com/)",
+  "license": "MIT"
+}
