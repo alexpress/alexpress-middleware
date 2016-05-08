@@ -1,6 +1,6 @@
 should = require( "should" )
 assert = require( "assert" )
-alexpress = require '../../alexpress/index'
+alexpress = require 'alexpress'
 {render} = require '../index'
 should.use require './ext/ext'
 run = require( './ext/run' )
