@@ -1,6 +1,8 @@
 # alexpress-middleware
 Common middleware for `alexpress`
 
+[![Build Status](https://travis-ci.org/alexpress/alexpress-middleware.svg?branch=master)](https://travis-ci.org/alexpress/alexpress-middleware)
+
 ## Installation
 Install with npm
 
